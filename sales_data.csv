@@ -1,0 +1,11 @@
+Product,Region,Sales,Quantity
+Laptop,North,1200,2
+Mouse,South,150,5
+Keyboard,East,300,3
+Monitor,West,800,4
+Mouse,North,180,4
+Keyboard,East,350,2
+Laptop,West,1300,3
+Monitor,South,750,3
+Laptop,East,1250,2
+Mouse,West,160,5
